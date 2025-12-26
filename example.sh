@@ -1,0 +1,1 @@
+python run_evaluation.py --base_url  ${BASE_URL} --api_key ${API_KEY} --mode all --model claude-sonnet-4-5-20250929

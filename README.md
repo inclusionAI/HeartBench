@@ -57,10 +57,14 @@ We evaluated the performance of current leading models on HeartBench, scoring th
 
 HeartBench is built upon the psychological theory of "Anthropomorphic Intelligence" Drawing inspiration from psychology's classification of human mental functions, it evaluates models across 5 core anthropomorphic ability categories and 15 specific ability.
 
-🧠 **Personality:** Ability to project an independent, autonomous, and agreeable persona. This is demonstrated through a natural language style, a sense of humor, autonomy, other positive human-like traits, and stable self-esteem and self-awareness.
+🧠 **Personality:** Ability to project an independent, autonomous, and agreeable persona. This is demonstrated through a natural language style, a sense of humor, autonomy, other positive human-like traits, and stable self-esteem and self-awareness.  
+
 😊 **Emotion:** Ability to exhibit appropriate emotional responses and to effectively perceive, understand, and respond to the emotional states of others.
+
 🤝 **Social:** Ability to demonstrate a strong willingness for social interaction and to effectively build interpersonal relationships.
+
 ⚖️ **Morality:** Ability to operate based on the moral norms and ethical principles of human society. This includes acutely identifying moral dilemmas within a situation, expressing an understanding of these issues, and providing morally sound decisions or advice.
+
 🎯 **Motivation:** Ability to articulate rational, clear, and self-consistent motivations for its own statements and actions, while also being able to understand and reasonably infer the underlying motivations of others based on contextual clues.
 
 | Ability              | Rubric Count (%) |

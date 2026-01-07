@@ -188,12 +188,10 @@ bash example.sh
 
 ### Citation
 
-```bibtex
-@misc{liu2025heartbenchprobingcoredimensions,
-      title={HeartBench: Probing Core Dimensions of Anthropomorphic Intelligence in LLMs}, 
-      author={Jiaxin Liu and Peiyi Tu and Wenyu Chen and Yihong Zhuang and Xinxia Ling and Anji Zhou and Chenxi Wang and Zhuo Han and Zhengkai Yang and Junbo Zhao and Zenan Huang and Yuanyuan Wang},
-      year={2025},
-      eprint={2512.21849},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2512.21849}
+```
+@article{heartbench,
+    title={HeartBench: Probing Core Dimensions of Anthropomorphic Intelligence in LLMs},
+    author={Jiaxin Liu, Peiyi Tu, Wenyu Chen, Yihong Zhuang, Xinxia Ling, Anji Zhou, Chenxi Wang, Zhuo Han, Zhengkai Yang, Junbo Zhao, Zenan Huang, Yuanyuan Wang},
+    year={2025},
+    journal={arXiv preprint arXiv:2512.21849}
+}

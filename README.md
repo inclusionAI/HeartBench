@@ -1,9 +1,13 @@
 <div align="center">
   <h1 style="margin:16px 0 8px;">HeartBench: Probing Core Dimensions of Anthropomorphic Intelligence in LLMs</h1>
 </div>
-<a href="https://opensource.org/licenses/Apache-2.0">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License: Apache 2.0">
-</a>
+
+<div align="center">
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Technical Report](https://img.shields.io/badge/Technical%20Report-arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.21849)
+
+</div>
 
 ---
 
